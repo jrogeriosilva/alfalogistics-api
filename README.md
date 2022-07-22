@@ -1,6 +1,6 @@
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 # Alfalogistics
-## API de Rest controle de entregas.
+## API Rest de controle de entregas.
 
 ![image](https://user-images.githubusercontent.com/15113099/180330125-e6a566de-f47d-4665-97e0-e4216767d55d.png)
 
